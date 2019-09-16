@@ -14,3 +14,4 @@ redis-git
 # gae test files
 google-cloud-sdk/
 google
+env/
